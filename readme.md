@@ -1,2 +1,2 @@
 # NAVBAR
-![img](navbar/navbarss.jpeg)
+![img](navbarss.jpeg)
